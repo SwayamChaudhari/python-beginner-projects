@@ -36,7 +36,7 @@ else:
     print(f"BMI: {bmi}")
     print("Category: Obese")
 
-
+print("Uploaded to GitHub successfully")
 
 
 
