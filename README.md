@@ -1,23 +1,25 @@
 # Python Beginner Projects
 
-This repository contains beginner Python projects created while learning Python fundamentals.
+## Beginner
+✅ Voting Eligibility Checker
+✅ Number Comparison
+✅ BMI Calculator
+✅ Grade Calculator
 
-## Projects
+## Intermediate
+✅ ATM Menu
+✅ Login System
+✅ Notes App
+✅ Student Record Manager
+✅ Expense Tracker
 
-1. Voting Eligibility Checker
-2. Number Comparison App
-3. Grade Calculator
-4. BMI Calculator
-
-## Concepts Practiced
-
-* Variables
-* Data Types
-* Input/Output
-* Type Conversion
-* Operators
-* Strings
-* Conditions
-* Nested Conditions
-
-Built by Swayam as part of a Python learning journey.
+## Skills Used
+- Variables
+- Loops
+- Functions
+- Lists
+- Dictionaries
+- File Handling
+- Error Handling
+- String Methods
+- Git & GitHub
