@@ -1,0 +1,2 @@
+500,food
+900,clothes
